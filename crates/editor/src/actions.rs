@@ -245,6 +245,7 @@ gpui::actions!(
         CopyPath,
         CopyPermalinkToLine,
         CopyRelativePath,
+        CopyFileName,
         Cut,
         CutToEndOfLine,
         Delete,
