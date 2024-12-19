@@ -131,8 +131,6 @@ actions!(
         CloseWindow,
         CopyPath,
         CopyRelativePath,
-        CopyFileName,
-        CopyFileNameWithoutExtension,
         Feedback,
         FollowNextCollaborator,
         MoveFocusedPanelToNextPosition,
