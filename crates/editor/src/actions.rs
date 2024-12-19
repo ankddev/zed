@@ -242,7 +242,7 @@ gpui::actions!(
         Copy,
         CopyFileLocation,
         CopyFileName,
-        CopyFileNameWithExtension,
+        CopyFileNameWithoutExtension,
         CopyHighlightJson,
         CopyPath,
         CopyPermalinkToLine,
